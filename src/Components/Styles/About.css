@@ -1,0 +1,12 @@
+.about_hero {
+  background-image: url("../../assets//About/hero_banner.webp");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.shopWithUs_bg {
+  background-image: url("../../assets//About/ShopWith_bg.webp");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}

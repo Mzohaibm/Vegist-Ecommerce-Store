@@ -1,0 +1,25 @@
+.customer .slick-dots li button::before {
+  border: 2px solid green;
+  border-radius: 50%;
+  width: 20px;
+  height: 20px;
+  font-size: 12px;
+  color: green;
+}
+.customer .slick-dots li button {
+  color: green;
+}
+.customer .slick-dots li.slick-active button::before {
+  border: 2px solid yellowgreen;
+  color: green;
+}
+.customer .slick-dots {
+  position: absolute;
+  bottom: -50px !important;
+  display: block;
+  width: 100%;
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  text-align: center;
+}

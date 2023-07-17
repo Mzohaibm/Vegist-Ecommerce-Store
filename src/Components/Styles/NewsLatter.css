@@ -1,0 +1,12 @@
+.news1 {
+  background: url("../../assets/NewsLatter/News1.webp");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+.news2 {
+  background: url("../../assets/NewsLatter/News2.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}

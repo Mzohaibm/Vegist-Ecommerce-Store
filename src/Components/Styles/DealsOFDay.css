@@ -1,0 +1,6 @@
+.deal_bg {
+  background: url("../../assets//DealsOfDay/deal.webp");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
